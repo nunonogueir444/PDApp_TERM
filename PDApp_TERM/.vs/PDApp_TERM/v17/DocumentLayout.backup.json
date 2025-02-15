@@ -34,7 +34,8 @@
               "RelativeToolTip": "ClassWriteArgs.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T23:20:43.177Z"
+              "WhenOpened": "2025-02-15T23:20:43.177Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -42,9 +43,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "G:\\GitHub_nunonogueir444\\PDApp_TERM\\PDApp_TERM\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "G:\\GitHub_nunonogueir444\\PDApp_TERM\\PDApp_TERM\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "ToolTip": "G:\\GitHub_nunonogueir444\\PDApp_TERM\\PDApp_TERM\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T23:20:13.331Z",
               "EditorCaption": ""
