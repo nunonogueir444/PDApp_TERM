@@ -1,0 +1,7 @@
+G:\GitHub_nunonogueir444\PDApp_TERM\PDApp_TERM\bin\Debug\PDApp_TERM.exe.config
+G:\GitHub_nunonogueir444\PDApp_TERM\PDApp_TERM\bin\Debug\PDApp_TERM.exe
+G:\GitHub_nunonogueir444\PDApp_TERM\PDApp_TERM\bin\Debug\PDApp_TERM.pdb
+G:\GitHub_nunonogueir444\PDApp_TERM\PDApp_TERM\obj\Debug\PDApp_TERM.csproj.AssemblyReference.cache
+G:\GitHub_nunonogueir444\PDApp_TERM\PDApp_TERM\obj\Debug\PDApp_TERM.csproj.CoreCompileInputs.cache
+G:\GitHub_nunonogueir444\PDApp_TERM\PDApp_TERM\obj\Debug\PDApp_TERM.exe
+G:\GitHub_nunonogueir444\PDApp_TERM\PDApp_TERM\obj\Debug\PDApp_TERM.pdb
