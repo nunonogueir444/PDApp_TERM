@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "G:\\GitHub_nunonogueir444\\PDApp_TERM\\PDApp_TERM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE194C69-FE17-4A99-90B8-C44781814257}|PDApp_TERM.csproj|g:\\github_nunonogueir444\\pdapp_term\\pdapp_term\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE194C69-FE17-4A99-90B8-C44781814257}|PDApp_TERM.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C9225DD-5E9C-41F1-9943-9AF8EDDDAD2E}|PDApp_TERM.csproj|g:\\github_nunonogueir444\\pdapp_term\\pdapp_term\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C9225DD-5E9C-41F1-9943-9AF8EDDDAD2E}|PDApp_TERM.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C9225DD-5E9C-41F1-9943-9AF8EDDDAD2E}|PDApp_TERM.csproj|g:\\github_nunonogueir444\\pdapp_term\\pdapp_term\\classwriteargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C9225DD-5E9C-41F1-9943-9AF8EDDDAD2E}|PDApp_TERM.csproj|solutionrelative:classwriteargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +26,27 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassWriteArgs.cs",
+              "DocumentMoniker": "G:\\GitHub_nunonogueir444\\PDApp_TERM\\PDApp_TERM\\ClassWriteArgs.cs",
+              "RelativeDocumentMoniker": "ClassWriteArgs.cs",
+              "ToolTip": "G:\\GitHub_nunonogueir444\\PDApp_TERM\\PDApp_TERM\\ClassWriteArgs.cs",
+              "RelativeToolTip": "ClassWriteArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T23:20:43.177Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "G:\\GitHub_nunonogueir444\\PDApp_TERM\\PDApp_TERM\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "G:\\GitHub_nunonogueir444\\PDApp_TERM\\PDApp_TERM\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA+AAAAAAAAAA==",
+              "ToolTip": "G:\\GitHub_nunonogueir444\\PDApp_TERM\\PDApp_TERM\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T12:10:16.39Z",
+              "WhenOpened": "2025-02-15T23:20:13.331Z",
               "EditorCaption": ""
             }
           ]
