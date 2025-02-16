@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "G:\\GitHub_nunonogueir444\\PDApp_TERM\\PDApp_TERM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C9225DD-5E9C-41F1-9943-9AF8EDDDAD2E}|PDApp_TERM.csproj|g:\\github_nunonogueir444\\pdapp_term\\pdapp_term\\classtruckdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C9225DD-5E9C-41F1-9943-9AF8EDDDAD2E}|PDApp_TERM.csproj|solutionrelative:classtruckdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C9225DD-5E9C-41F1-9943-9AF8EDDDAD2E}|PDApp_TERM.csproj|g:\\github_nunonogueir444\\pdapp_term\\pdapp_term\\classmachinedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C9225DD-5E9C-41F1-9943-9AF8EDDDAD2E}|PDApp_TERM.csproj|solutionrelative:classmachinedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C9225DD-5E9C-41F1-9943-9AF8EDDDAD2E}|PDApp_TERM.csproj|g:\\github_nunonogueir444\\pdapp_term\\pdapp_term\\classwriteargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,13 +30,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\GitHub_nunonogueir444\\PDApp_TERM\\PDApp_TERM\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "G:\\GitHub_nunonogueir444\\PDApp_TERM\\PDApp_TERM\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T23:20:13.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ClassTruckDetails.cs",
-              "DocumentMoniker": "G:\\GitHub_nunonogueir444\\PDApp_TERM\\PDApp_TERM\\ClassTruckDetails.cs",
-              "RelativeDocumentMoniker": "ClassTruckDetails.cs",
-              "ToolTip": "G:\\GitHub_nunonogueir444\\PDApp_TERM\\PDApp_TERM\\ClassTruckDetails.cs",
-              "RelativeToolTip": "ClassTruckDetails.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAdAAAAAAAAAA==",
+              "Title": "ClassMachineDetails.cs",
+              "DocumentMoniker": "G:\\GitHub_nunonogueir444\\PDApp_TERM\\PDApp_TERM\\ClassMachineDetails.cs",
+              "RelativeDocumentMoniker": "ClassMachineDetails.cs",
+              "ToolTip": "G:\\GitHub_nunonogueir444\\PDApp_TERM\\PDApp_TERM\\ClassMachineDetails.cs",
+              "RelativeToolTip": "ClassMachineDetails.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAowIsAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T09:35:40.855Z",
               "EditorCaption": ""
@@ -49,21 +62,10 @@
               "RelativeDocumentMoniker": "ClassWriteArgs.cs",
               "ToolTip": "G:\\GitHub_nunonogueir444\\PDApp_TERM\\PDApp_TERM\\ClassWriteArgs.cs",
               "RelativeToolTip": "ClassWriteArgs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T23:20:43.177Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "G:\\GitHub_nunonogueir444\\PDApp_TERM\\PDApp_TERM\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "G:\\GitHub_nunonogueir444\\PDApp_TERM\\PDApp_TERM\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T23:20:13.331Z"
+              "WhenOpened": "2025-02-15T23:20:43.177Z",
+              "EditorCaption": ""
             }
           ]
         }

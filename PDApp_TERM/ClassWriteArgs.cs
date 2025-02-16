@@ -13,16 +13,13 @@ namespace PDApp_TERM
 
         //#########################################################################################
 
-            if (args.Length < 5)
+            if (args.Length < 4)
             {
                 Console.WriteLine("Passing Args error!");
                 return;
             }
 
-            /*Console.WriteLine("Truck Serial: " + args[0] + "   Tuck Model: " + args[1]
-                              + "   Telematics: " + args[2] + "   Battery Type: " + args[3]);*/
-
-            string[] labels = { "Truck Serial: ", "Truck Model: ", "Truck Index: ", "Telematics: ", "Battery Type: " };
+            string[] labels = { "Machine Serial: ", "Machine Index: ", "Antenna: ", "Battery Type: " };
             int maxLength = labels.Max(label => label.Length);
 
             for (int i = 0; i < labels.Length; i++)

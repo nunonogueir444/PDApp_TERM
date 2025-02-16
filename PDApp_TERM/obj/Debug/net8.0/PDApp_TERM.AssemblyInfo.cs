@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PDApp_TERM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd8baaad510ea272f80c382210326cc5955b121b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b6699d83432c2f6b2da667bbe5b2341d9b497c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("PDApp_TERM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PDApp_TERM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

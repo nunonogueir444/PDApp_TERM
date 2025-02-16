@@ -7,11 +7,11 @@
 
             //#########################################################################################
 
-            ClassTruckDetails truckDetailsInstance = new();
-            truckDetailsInstance.TruckDetails(args);
+            ClassMachineDetails MachineDetailsInstance = new();
+            MachineDetailsInstance.MachineDetails(args);
 
-            ClassWriteArgs writeArgsInstance = new();
-            writeArgsInstance.WriteArgs(args);
+            ClassWriteArgs WriteArgsInstance = new();
+            WriteArgsInstance.WriteArgs(args);
 
             //#########################################################################################
 
