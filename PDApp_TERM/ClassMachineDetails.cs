@@ -9,6 +9,7 @@ namespace PDApp_TERM
     class ClassMachineDetails
     {
         int MachineIndex = 0;
+        int pad = 20;
         readonly string?[] NodeID = new string?[127 + 1];
 
         public string? MachineModel { get; set; }
@@ -113,11 +114,13 @@ namespace PDApp_TERM
                     break;
             }
 
-            Console.WriteLine("-Machine Model:     " + MachineModel);
-            Console.WriteLine("-Machine Type:      " + MachineType);
-            Console.WriteLine("-Baudrate:          " + Baudrate);
-            Console.WriteLine("-Motor Type:        " + MotorType);
-            Console.WriteLine("-Clear Faults Type: " + ClearFaultsType);
+
+
+            Console.WriteLine("Machine Model:".PadRight(pad) + MachineModel);
+            Console.WriteLine("Machine Type:".PadRight(pad) + MachineType);
+            Console.WriteLine("Baudrate:".PadRight(pad) + Baudrate);
+            Console.WriteLine("Motor Type:".PadRight(pad) + MotorType);
+            Console.WriteLine("Clear Faults Type:".PadRight(pad) + ClearFaultsType);
             PrintNonNullNodes();
             Console.WriteLine("");
 
@@ -137,7 +140,7 @@ namespace PDApp_TERM
             {
                 if (!string.IsNullOrEmpty(NodeID[i]))
                 {
-                    Console.WriteLine($"NodeID 0x{i}--{NodeID[i]}");
+                    Console.WriteLine($"NodeID 0x{i}:".PadRight(pad) + NodeID[i]);
                 }
             }
         }

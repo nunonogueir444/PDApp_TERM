@@ -20,11 +20,11 @@ namespace PDApp_TERM
             }
 
             string[] labels = { "Machine Serial: ", "Machine Index: ", "Antenna: ", "Battery Type: " };
-            int maxLength = labels.Max(label => label.Length);
+            //int maxLength = labels.Max(label => label.Length);
 
             for (int i = 0; i < labels.Length; i++)
             {
-                Console.WriteLine(labels[i].PadRight(maxLength) + args[i]);
+                Console.WriteLine(labels[i].PadRight(20) + args[i]);
             }
 
             //#########################################################################################
