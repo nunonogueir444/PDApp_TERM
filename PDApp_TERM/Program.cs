@@ -5,11 +5,15 @@
         static void Main(string[] args)
         {
 
-        //#########################################################################################
+            //#########################################################################################
 
-            ClassWriteArgs.WriteArgs(args);
+            ClassTruckDetails truckDetailsInstance = new();
+            truckDetailsInstance.TruckDetails(args);
 
-        //#########################################################################################
+            ClassWriteArgs writeArgsInstance = new();
+            writeArgsInstance.WriteArgs(args);
+
+            //#########################################################################################
 
         }
     }
