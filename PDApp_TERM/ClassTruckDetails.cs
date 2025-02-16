@@ -38,9 +38,9 @@ namespace PDApp_TERM
                     Baudrate = 500;
                     ControllerType = "SE";
                     ClearFaultsType = "S";
-                    NodeID[36] = "Master";
-                    NodeID[40] = "Pump";
-                    NodeID[110] = "Disp";
+                    NodeID[46] = "Master";
+                    NodeID[50] = "Pump";
+                    NodeID[120] = "Disp";
                     break;
                 case 2000:
                     Model = args[1];
@@ -48,12 +48,12 @@ namespace PDApp_TERM
                     Baudrate = 250;
                     ControllerType = "SE";
                     ClearFaultsType = "S_SH";
-                    NodeID[37] = "TRR";
-                    NodeID[38] = "TFR";
-                    NodeID[39] = "TFL";
-                    NodeID[40] = "Pump";
-                    NodeID[110] = "Disp";
-                    NodeID[127] = "CRR";
+                    NodeID[47] = "TRR";
+                    NodeID[48] = "TFR";
+                    NodeID[49] = "TFL";
+                    NodeID[50] = "Pump";
+                    NodeID[120] = "Disp";
+                    NodeID[125] = "CRR";
                     break;
                 case 3000:
                     Model = args[1];
@@ -61,10 +61,10 @@ namespace PDApp_TERM
                     Baudrate = 500;
                     ControllerType = "F";
                     ClearFaultsType = "F_SH";
-                    NodeID[37] = "TFR";
-                    NodeID[38] = "TFL";
-                    NodeID[39] = "Pump";
-                    NodeID[110] = "Disp";
+                    NodeID[57] = "TFR";
+                    NodeID[68] = "TFL";
+                    NodeID[79] = "Pump";
+                    NodeID[120] = "Disp";
                     break;
                 default:
                     Model = "n/a";

@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "ClassTruckDetails.cs",
               "ToolTip": "G:\\GitHub_nunonogueir444\\PDApp_TERM\\PDApp_TERM\\ClassTruckDetails.cs",
               "RelativeToolTip": "ClassTruckDetails.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAADgvz8AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T09:35:40.855Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "ClassWriteArgs.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T23:20:43.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T23:20:43.177Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T23:20:13.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T23:20:13.331Z"
             }
           ]
         }
